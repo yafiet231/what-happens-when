@@ -1,6 +1,6 @@
 ### What Happens When You Type “https://www.google.com” in Your Browser and Press Enter?
 
-**Introduction** When a user enters a web address (URL) like *[google_.com](./google_.com) a fascinating journey begins behind the scenes. The process involves translating the domain name into an IP address, establishing secure connections, load balancing, and interacting with web servers and databases. It’s like a precisely planned and coordinated dance of protocols and servers, all working together to deliver the magic of Google right to the screen.
+**Introduction** When a user enters a web address (URL) like *[google.com] a fascinating journey begins behind the scenes. The process involves translating the domain name into an IP address, establishing secure connections, load balancing, and interacting with web servers and databases. It’s like a precisely planned and coordinated dance of protocols and servers, all working together to deliver the magic of Google right to the screen.
 
 The internet connection: Allows user to send and receive data on the web.
 
